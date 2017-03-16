@@ -1,0 +1,7 @@
+D:\TEMP\Camadas\Camadas\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+D:\TEMP\Camadas\Camadas\Controllers\bin\Debug\Controllers.dll
+D:\TEMP\Camadas\Camadas\Controllers\bin\Debug\Controllers.pdb
+D:\TEMP\Camadas\Camadas\Controllers\bin\Debug\Models.dll
+D:\TEMP\Camadas\Camadas\Controllers\bin\Debug\Models.pdb
+D:\TEMP\Camadas\Camadas\Controllers\obj\Debug\Controllers.dll
+D:\TEMP\Camadas\Camadas\Controllers\obj\Debug\Controllers.pdb

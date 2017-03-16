@@ -1,0 +1,4 @@
+D:\TEMP\Camadas\Camadas\Uteis\bin\Debug\Uteis.dll
+D:\TEMP\Camadas\Camadas\Uteis\bin\Debug\Uteis.pdb
+D:\TEMP\Camadas\Camadas\Uteis\obj\Debug\Uteis.dll
+D:\TEMP\Camadas\Camadas\Uteis\obj\Debug\Uteis.pdb

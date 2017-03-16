@@ -1,0 +1,16 @@
+D:\TEMP\Camadas\Camadas\Views_WF\obj\Debug\Views_WF.csprojResolveAssemblyReference.cache
+D:\TEMP\Camadas\Camadas\Views_WF\obj\Debug\Views_WF.CadastroCliente.resources
+D:\TEMP\Camadas\Camadas\Views_WF\obj\Debug\Views_WF.Properties.Resources.resources
+D:\TEMP\Camadas\Camadas\Views_WF\obj\Debug\Views_WF.TelaInicial.resources
+D:\TEMP\Camadas\Camadas\Views_WF\obj\Debug\Views_WF.csproj.GenerateResource.Cache
+D:\TEMP\Camadas\Camadas\Views_WF\bin\Debug\Views_WF.exe.config
+D:\TEMP\Camadas\Camadas\Views_WF\bin\Debug\Views_WF.exe
+D:\TEMP\Camadas\Camadas\Views_WF\bin\Debug\Views_WF.pdb
+D:\TEMP\Camadas\Camadas\Views_WF\bin\Debug\Controllers.dll
+D:\TEMP\Camadas\Camadas\Views_WF\bin\Debug\Uteis.dll
+D:\TEMP\Camadas\Camadas\Views_WF\bin\Debug\Models.dll
+D:\TEMP\Camadas\Camadas\Views_WF\bin\Debug\Controllers.pdb
+D:\TEMP\Camadas\Camadas\Views_WF\bin\Debug\Uteis.pdb
+D:\TEMP\Camadas\Camadas\Views_WF\bin\Debug\Models.pdb
+D:\TEMP\Camadas\Camadas\Views_WF\obj\Debug\Views_WF.exe
+D:\TEMP\Camadas\Camadas\Views_WF\obj\Debug\Views_WF.pdb

@@ -1,0 +1,4 @@
+D:\TEMP\Camadas\Models\bin\Debug\Models.dll
+D:\TEMP\Camadas\Models\bin\Debug\Models.pdb
+D:\TEMP\Camadas\Models\obj\Debug\Models.dll
+D:\TEMP\Camadas\Models\obj\Debug\Models.pdb
